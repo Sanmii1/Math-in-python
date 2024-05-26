@@ -1,2 +1,3 @@
 # Math-in-python
-isi nya matematika semua
+Implementing mathematical concepts in Python
+Have Fun XD
